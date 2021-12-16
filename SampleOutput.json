@@ -1,0 +1,28 @@
+[
+    {
+        "_id": "6181455199c73a83ae300414"
+    },
+    {
+        "_id": "6181459f99c73a83ae300415",
+        "brand": "H&M",
+        "size": "L",
+        "gender": "him",
+        "category": "t-shirt"
+    },
+    {
+        "_id": "61821a15bc4a84e5c8050929",
+        "brand": "H&M",
+        "size": "L",
+        "gender": "Him",
+        "category": "T-shirt",
+        "__v": 0
+    },
+    {
+        "_id": "61821b94a00fc072a71f96d2",
+        "brand": "H&M",
+        "size": "L",
+        "gender": "Him",
+        "category": "T-shirt",
+        "__v": 0
+    }
+]
